@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://www.dropbox.com/home?preview=ToDoApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.dropbox.com/s/z6yoyf9ml39pgio/ToDoApp.gif?dl=0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
