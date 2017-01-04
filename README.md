@@ -37,8 +37,8 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Challenge: 
+1. Not very familar with the intent with passing the value between two intents.
 
 ## License
 
