@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![alt tag](https://www.dropbox.com/s/z6yoyf9ml39pgio/ToDoApp.gif?dl=0)
+![alt tag](https://cloud.githubusercontent.com/assets/5563183/21645739/4c643f0e-d2ce-11e6-8a83-a6a3b5387cd5.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
